@@ -1,0 +1,11 @@
+.cv.header-vertical #header {
+    width: 275px;
+}
+
+.cv .icon {
+    font-size: 24px;
+}
+
+.cv.header-vertical #header .nav-vertical {
+    text-align: left;
+}
