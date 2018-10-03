@@ -1074,7 +1074,8 @@ img {
  right:15px
 }
 .gallery-item .item-title {
- text-align:center;
+ text-align: justify;
+ text-justify: inter-word;
  padding:25px 10px;
  background-color:#fff
 }
