@@ -1888,7 +1888,7 @@ pre {
  -webkit-border-radius:50%;
  -moz-border-radius:50%;
  border-radius:50%;
- color:#fff
+ color:#fff;
 }
 .icon-circle>* {
  position:absolute;
@@ -1924,7 +1924,7 @@ a.icon>:focus,a.icon>:hover {
 }
 .icon-xs {
  font-size:13px;
- width:34px
+ width:34px;
 }
 .icon-xs.icon-circle {
  font-size:11px;
@@ -2089,7 +2089,8 @@ a.icon>:focus,a.icon>:hover {
 .icon-github:focus,.icon-github:hover {
  color:#757575
 }
-.icon-google-plus {
+.icon-
+-plus {
  background-color:#e13d3d
 }
 .icon-google-plus:focus,.icon-google-plus:hover {
